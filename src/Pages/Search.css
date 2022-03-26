@@ -1,0 +1,33 @@
+.search-box{
+
+    display: flex;
+    flex-direction: column;
+}
+.search-container{
+     height :7vh;
+    width: 100vh;
+     box-shadow: 2px 2px 2px 2px rgb(230, 225, 225) ;
+     border-radius: 70px ;
+     justify-content: center;
+     align-items: center;
+     margin: 2px;
+     display: flex;
+     margin-left: 53vh;
+     margin-right: 0vh;
+   
+     margin-top: 0vh;
+   
+    
+}
+
+
+.search-input{
+    
+    width: 90vh;
+    border: none;
+    outline: 0;
+}
+
+.searchBar{
+    color: gray;
+}

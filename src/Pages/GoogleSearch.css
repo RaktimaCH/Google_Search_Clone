@@ -1,0 +1,56 @@
+.page{
+    display: flex;
+    flex-direction: row;
+   padding: 0px;
+   position: relative;
+   top: -20vh;
+    
+}
+.searchInput{
+ 
+   margin-top: 25vh;
+   position: absolute;
+   margin-right: 15vh;
+ 
+  
+  
+}
+.googleLogo{
+    height: 10vh;
+    width: 25vh;
+    margin-top: 25vh;
+    margin-left: 26vh;
+}
+.search-icon-tool{
+    margin-top: 36vh;
+    margin-left: 0vh;
+    display: flex;
+
+    
+    
+}
+.left-icon-tool{
+   margin-left: 2vh;
+    display: flex;
+    text-decoration: none;
+}
+.right{
+    margin-left: 10vh;
+    display: flex;
+}
+.right-icon-tool{
+    margin-left: 3vh;
+}
+.srcc{
+    text-decoration: none;
+    color: gray;
+}
+.newInput{
+    width:90vh
+}
+.Result-google-search{
+    width: 100vw;
+    margin-top: 50vh;
+    position: absolute;
+    right: 0vh;
+}
